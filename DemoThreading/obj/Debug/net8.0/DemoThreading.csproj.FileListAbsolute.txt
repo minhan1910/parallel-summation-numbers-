@@ -1,0 +1,14 @@
+D:\dotnet-core-books\dotnet_workspace\DemoThreading\DemoThreading\bin\Debug\net8.0\DemoThreading.exe
+D:\dotnet-core-books\dotnet_workspace\DemoThreading\DemoThreading\bin\Debug\net8.0\DemoThreading.deps.json
+D:\dotnet-core-books\dotnet_workspace\DemoThreading\DemoThreading\bin\Debug\net8.0\DemoThreading.runtimeconfig.json
+D:\dotnet-core-books\dotnet_workspace\DemoThreading\DemoThreading\bin\Debug\net8.0\DemoThreading.dll
+D:\dotnet-core-books\dotnet_workspace\DemoThreading\DemoThreading\bin\Debug\net8.0\DemoThreading.pdb
+D:\dotnet-core-books\dotnet_workspace\DemoThreading\DemoThreading\obj\Debug\net8.0\DemoThreading.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet-core-books\dotnet_workspace\DemoThreading\DemoThreading\obj\Debug\net8.0\DemoThreading.AssemblyInfoInputs.cache
+D:\dotnet-core-books\dotnet_workspace\DemoThreading\DemoThreading\obj\Debug\net8.0\DemoThreading.AssemblyInfo.cs
+D:\dotnet-core-books\dotnet_workspace\DemoThreading\DemoThreading\obj\Debug\net8.0\DemoThreading.csproj.CoreCompileInputs.cache
+D:\dotnet-core-books\dotnet_workspace\DemoThreading\DemoThreading\obj\Debug\net8.0\DemoThreading.dll
+D:\dotnet-core-books\dotnet_workspace\DemoThreading\DemoThreading\obj\Debug\net8.0\refint\DemoThreading.dll
+D:\dotnet-core-books\dotnet_workspace\DemoThreading\DemoThreading\obj\Debug\net8.0\DemoThreading.pdb
+D:\dotnet-core-books\dotnet_workspace\DemoThreading\DemoThreading\obj\Debug\net8.0\DemoThreading.genruntimeconfig.cache
+D:\dotnet-core-books\dotnet_workspace\DemoThreading\DemoThreading\obj\Debug\net8.0\ref\DemoThreading.dll
